@@ -1,0 +1,12 @@
+# Ignore build and executable files
+*.o
+*.out
+*.exe
+rpg_game
+
+# macOS system files
+.DS_Store
+
+# VS Code/CodeSpaces settings (optional)
+.vscode/
+*.code-workspace
